@@ -1,0 +1,9 @@
+Durante este curso aprendí que la tecnología puede ser una herramienta muy útil para fortalecer la participación ciudadana.
+Comprendí la importancia de crear plataformas sencillas que permitan a las comunidades organizarse y expresar sus necesidades.
+También aprendí cómo las bases de datos ayudan a gestionar la información de manera ordenada.
+Entendí que la protección de los datos personales es fundamental en cualquier sistema.
+Conocí el uso de automatizaciones para mejorar la comunicación entre los usuarios.
+Aprendí que documentos como los PDF pueden facilitar la presentación formal de las peticiones ciudadanas.
+Además, comprendí cómo herramientas como n8n y Telegram pueden optimizar procesos.
+Este curso me permitió identificar el papel de la tecnología en la solución de problemas comunitarios.
+Finalmente, entendí que un buen diseño tecnológico puede promover una participación más inclusiva y organizada.
